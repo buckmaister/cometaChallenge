@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 538866422
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 18886ccdbbb51add2cd068cf32822ddc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb4d986de718f901bd98ca75965f5ca7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Cletter.prefab
+Dependencies: []
